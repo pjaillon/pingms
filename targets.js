@@ -46,7 +46,7 @@ data1 = {
         name: "CA-West, Montreal (BHS)",
         url: "http://bhs.smokeping.ovh.net/",
     }, {
-        name: "US-West, Washington (VIN)",
+        name: "US-East, Washington (VIN)",
         url: "http://vin.smokeping.ovh.net/",
 //    }, {
 //        name: "US-East, Portland (HIL)",
